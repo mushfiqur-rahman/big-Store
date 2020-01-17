@@ -20,7 +20,7 @@ I just made this project for learning purpose. <br>
 
 1. **DomPDF** for invoice. You can see it in [stackoverflow](https://bit.ly/2Nyc3UH)
 2. **Intervention** for Image upload
-3. **Gloudemans** fro shopping cart
+3. **Gloudemans** for shopping cart
 4. **Stripe** for payment gateway
 <br>
 
